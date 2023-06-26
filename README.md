@@ -22,7 +22,7 @@ JumpHead is built using HTML, CSS, and JavaScript. The game features a character
 
 To control the character in JumpHead, you only need one action:
 
-- **Jump**: Press any key or click anywhere on the screen to make the character jump.
+- **Jump**: click anywhere on the screen to make the character jump.
 
 Remember to time your jumps carefully to avoid hitting the blocks!
 
