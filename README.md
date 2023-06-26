@@ -1,5 +1,6 @@
 # JumpHead - My First Game
 
+🎮 **Play it [Here](https://jr-einstein.github.io/JumpHead/).**
 
 Welcome to JumpHead, my first game project! JumpHead is a simple web-based game where you control a character and try to avoid obstacles by jumping over them. This README.md file will provide you with all the information you need to get started and understand the exciting features of this game.
 
